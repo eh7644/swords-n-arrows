@@ -1,0 +1,3 @@
+Add projectiles, right now we only have the assets
+Secret character, which you can only access by joining the Discord server, and you cant see it anywhere else (in the help page, on the shop searcher, etc)
+
